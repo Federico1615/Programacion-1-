@@ -1,0 +1,6 @@
+101;Café con leche;1500
+102;Medialuna;700
+103;Sándwich de miga;1800
+104;Agua mineral 500 ml;1000
+105;Empanada;1200
+106;Chipá (100 g);1300
